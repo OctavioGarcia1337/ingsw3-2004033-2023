@@ -2,6 +2,8 @@
 
 Repositorio Git de Ingeniería de Software 3
 
+Alumno: Octavio Garcia 2004033
+
 # Tabla de contenidos
 
   * [Trabajo Práctico 1 - Git Básico](trabajos/01-git-basico/01-git-basico.md)
